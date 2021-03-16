@@ -1,10 +1,9 @@
 ---
 layout: home
-permalink: "/"
+permalink: /
 title: Athena Jekyll Theme
 
 ---
+Find the tools and knowledge necessary for your success in DeFi and crypto.
 
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-
+For free.
