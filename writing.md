@@ -1,21 +1,14 @@
 ---
 layout: category_index
-title: Writing
+title: 11135rvn911
 permalink: /writing/
 category_name: writing
+
 ---
+...and some Open Source Intelligence.
 
-<!--
+We will be digging into everything here, from creating a working Web 3.0 Blockchain based app, as well as the finest and battle-tested resources for the traders and investors amongst you.
 
-Set the front matter:
-title = your page title and link name in the navigation
-permalink = the url for the page, i.e. example.com/my-awesome-category
-category_name = the name of the cateogry you want to use to group posts, you'll need to use the same name on post pages
+You can simply call me raven.
 
-Save this page in the root directory.
-Use the same name for the filename as the permalink, i.e.
-
-permalink: /my-awesome-category/
-filename: my-awesome-category.html
-
--->
+Welcome!
